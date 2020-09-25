@@ -8,7 +8,6 @@ version = "7.2.0"
 requires = []
 
 variants = [
-    ["os-*", "python-3.6"],
     ["os-*", "python-3.7"],
 ]
 
